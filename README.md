@@ -1,3 +1,8 @@
+# IAMoviles_Act5_appBarCard_Gpo_6i
+propiedades de AppBar 6i
+<img width="1048" height="499" alt="image" src="https://github.com/user-attachments/assets/b3c001bf-155b-4123-8541-e9d17d043cad" />
+
+
 # myapp
 
 A new Flutter project.
